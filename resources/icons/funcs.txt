@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="remove.png">resources/icons/remove.png</file>
+    <file alias="copy.png">resources/icons/copy.png</file>
+    <file alias="new-file">resources/icons/new-document.png</file>
+    <file alias="new-folder.png">resources/icons/new-folder.png</file>
+    <file alias="paste.png">resources/icons/paste.png</file>
+</qresource>
+</RCC>
